@@ -1,5 +1,7 @@
 # CANtact Hardware
 
+Add isolated version in [CAN Isolated](https://github.com/x893/cantact-hw/tree/master/CAN Isolated) folder.
+
 This repository contains the hardware design files for the CANtact tool. They 
 can be opened and edited with [KiCad](http://www.kicad-pcb.org/).
 
@@ -11,3 +13,4 @@ A PDF of the schematic is available
 Hardware files released under the [Creative Commons Attribution-ShareAlike 4.0
 International License](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA
 4.0)
+
